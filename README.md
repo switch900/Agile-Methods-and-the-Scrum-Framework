@@ -16,19 +16,19 @@ budget compared to traditional methods
 
 Upon successful completion of this course, the student will be able to:
 <ul>
-<li>Explain and apply the core values of the Agile Manifesto.<li>
-<li>Implement key Agile methods: Scrum, Extreme Programming, Lean/Kanban, DSDM, and FDD.<li>
-<li>Learn how to use a Lean/Kanban approach when operating exclusively in a product maintenance mode in both local and remote environments.<li>
-<li>Communicate and collaborate in a dispersed online Agile team utilizing Scrum team standards.<li>
-<li>Deliver a product developed interactively based on Agile Management Frameworks such as Scrum and Kanban.<li>
-<li>Explain the difference between a traditional Project Manager and an Agile Project Manager.<li>
-<li>Explain and implement key agile practices such as user stories, agile planning, agile metric reporting, and self-directed teams.<li>
-<li>Implement and practice client/team collaboration techniques.<li>
-<li>Create Agile requirements based on the five stages of development of an agile "User Story".<li>
-<li>Implement User Story Mapping and User Story Splitting.<li>
-<li>Implement an Agile estimating technique (planning poker).<li>
-<li>Define and Manage Product Backlogs.<li>
-<li>Plan Iterations (Sprints) while conducting Sprint Planning, Daily Scrums, Sprint Reviews & Retrospectives.<li>
-<li>Track and Report project progress using a Scrum Board and Project Burn-Down Charts.<li>
-<li>Set a strategy to transition a traditional organization to an Agile organization.<li>
-<li>Implement formats for lean documentation and Agile presentations.<li>
+<li>Explain and apply the core values of the Agile Manifesto.</li>
+<li>Implement key Agile methods: Scrum, Extreme Programming, Lean/Kanban, DSDM, and FDD.</li>
+<li>Learn how to use a Lean/Kanban approach when operating exclusively in a product maintenance mode in both local and remote environments.</li>
+<li>Communicate and collaborate in a dispersed online Agile team utilizing Scrum team standards.</li>
+<li>Deliver a product developed interactively based on Agile Management Frameworks such as Scrum and Kanban.</li>
+<li>Explain the difference between a traditional Project Manager and an Agile Project Manager.</li>
+<li>Explain and implement key agile practices such as user stories, agile planning, agile metric reporting, and self-directed teams.</li>
+<li>Implement and practice client/team collaboration techniques.</li>
+<li>Create Agile requirements based on the five stages of development of an agile "User Story".</li>
+<li>Implement User Story Mapping and User Story Splitting.</li>
+<li>Implement an Agile estimating technique (planning poker).</li>
+<li>Define and Manage Product Backlogs.</li>
+<li>Plan Iterations (Sprints) while conducting Sprint Planning, Daily Scrums, Sprint Reviews & Retrospectives.</li>
+<li>Track and Report project progress using a Scrum Board and Project Burn-Down Charts.</li>
+<li>Set a strategy to transition a traditional organization to an Agile organization.</li>
+<li>Implement formats for lean documentation and Agile presentations.</li>
